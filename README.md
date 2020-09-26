@@ -25,6 +25,8 @@ Correction of some icons in the action folder
 Changelog: 26.09.2020.
 ----------------------
 
-Correction of gtk.css file
+Add some icone apps (16 and 48)
+
+
 
 
