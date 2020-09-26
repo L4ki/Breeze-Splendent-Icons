@@ -21,3 +21,10 @@ Changelog: 30.04.2020.
 ---------------------
 
 Correction of some icons in the action folder
+
+Changelog: 26.09.2020.
+----------------------
+
+Correction of gtk.css file
+
+
